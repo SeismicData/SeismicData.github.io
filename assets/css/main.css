@@ -2734,3 +2734,22 @@ body.is-menu-visible #menu {
     margin-right: -50%;
     transform: translate(-50%, -50%)
 }
+
+#paper_reference {
+    height: 20em;
+    position: relative;
+    background-color: green;
+    padding-bottom: 3ex;
+    margin-bottom: 3ex;
+}
+
+#paper_reference p {
+    margin: 2ex;
+    margin-left: 2ex;
+    margin-right: 2ex;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
