@@ -2715,3 +2715,22 @@ body.is-menu-visible #menu {
     padding: 2em 1.5em 0.1em 1.5em ; } }
 
 /*# sourceMappingURL=main.css.map */
+
+#other_asdf {
+    height: 5em;
+    position: relative;
+    background-color: orange;
+    padding-bottom: 3ex;
+    margin-bottom: 3ex;
+}
+
+#other_asdf p {
+    margin: 0;
+    margin-left: 1ex;
+    margin-right: 1ex;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
